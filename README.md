@@ -1,8 +1,26 @@
-# React + Vite
+# 🎬 Movie Explorer – React Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+I built a modern Movie Explorer web application using React to practice and demonstrate core frontend development concepts. This project focuses on clean UI design, reusable components, and efficient state management.
 
-Currently, two official plugins are available:
+The application allows users to browse movies, view detailed information, ratings, release dates, and interact with content through an intuitive tab-based interface. The layout is fully responsive and designed to provide a smooth user experience across different screen sizes.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# 🔧 Key Features:
+
+- Component-based architecture using React
+- Tab navigation for organized content display
+- Dynamic movie details (ratings, duration, release date)
+  Clean and modern UI design
+- Reusable components for scalability
+- State management using React Hooks
+- Responsive layout for desktop and mobile devices
+
+# 🛠 Technologies Used:
+
+- React.js
+- JavaScript (ES6+)
+- HTML5 & CSS3
+- Modern UI/UX principles
+
+This project helped me strengthen my understanding of React fundamentals, component reusability, and building real-world user interfaces. It also reflects my continuous learning journey in frontend development and modern JavaScript frameworks.
+
+🚀 Always improving and adding new features as I grow my skills.
